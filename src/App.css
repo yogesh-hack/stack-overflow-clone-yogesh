@@ -1,0 +1,35 @@
+.home-container-1 {
+  min-height: 100vh;
+  max-width: 1250px;
+  width: 100%;
+  display: flex;
+  justify-content: space-between;
+  margin: 0% auto;
+}
+
+.home-container-2 {
+  max-width: 1100px;
+  width: calc(100% - 164px);
+  padding: 24px;
+  box-sizing: border-box;
+}
+
+@media screen and (max-width: 760px) {
+  .home-container-2 {
+    max-width: 100%;
+    width: 100%;
+  }
+}
+.App {
+  background: #f0f0f0;
+  color: #333;
+  transition: background 1s, color 1s;
+}
+
+.night {
+  background: #333;
+  color: #f0f0f0;
+}
+.night p{
+  color: white;
+}
