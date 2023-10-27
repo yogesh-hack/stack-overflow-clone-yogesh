@@ -33,7 +33,7 @@
 .night p{
   color: white !important;
 }
-.night .widget, .widget-tags, .ask-ques-container, .auth-container-2, .auth-container-1{
+.night .widget, .widget-tags, .ask-ques-container, .auth-container-2, .auth-container-1, .display-time{
   color: black;
 }
 .night .right-sidebar-div-2 > p{
