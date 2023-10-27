@@ -1,4 +1,13 @@
-# Getting Started with Create React App
+# Stack Overflow Clone - By yogesh Baghel
+
+## Project Preview
+### Night Theme View
+![1](https://github.com/yogesh-hack/stack-overflow-clone-yogesh/assets/83384315/f9735556-0b39-4a84-a45b-7b92198540cb)
+![2](https://github.com/yogesh-hack/stack-overflow-clone-yogesh/assets/83384315/f6ec74ec-a832-4630-9113-75a8c1a72a15)
+
+### Day Theme View
+
+
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
