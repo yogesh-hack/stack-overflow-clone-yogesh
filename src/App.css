@@ -33,7 +33,7 @@
 .night p{
   color: white !important;
 }
-.night .widget{
+.night .widget, .ask-ques-container, .auth-container-2{
   color: black;
 }
 .night .right-sidebar-div-2 > p{
