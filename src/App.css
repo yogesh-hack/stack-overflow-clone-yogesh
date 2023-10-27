@@ -45,7 +45,7 @@
 .night .display-tags > p{
   color: rgb(141, 111, 248) !important;
 }
-.night .widget-tags-div > p{
+.night .widget-tags > .widget-tags-div > p{
   color : black;
 }
 
