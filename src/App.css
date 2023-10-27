@@ -31,5 +31,17 @@
   color: #f0f0f0;
 }
 .night p{
-  color: white;
+  color: white !important;
+}
+.night .widget{
+  color: black;
+}
+.night .right-sidebar-div-2 > p{
+  color: black !important;
+}
+.night .display-votes-ans > p{
+  color: black !important;
+}
+.night .display-tags > p{
+  color: rgb(141, 111, 248) !important;
 }
