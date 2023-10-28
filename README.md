@@ -6,6 +6,7 @@
 ![2](https://github.com/yogesh-hack/stack-overflow-clone-yogesh/assets/83384315/f6ec74ec-a832-4630-9113-75a8c1a72a15)
 
 ### Day Theme View
+![Main Screen](https://github.com/yogesh-hack/stack-overflow-clone-yogesh/assets/83384315/78594070-a6f9-4a2c-9f21-abf001619740)
 
 
 
